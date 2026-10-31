@@ -188,7 +188,11 @@ Pattern: ('party_dress', 'formal_dress', 'suit'), Support: 4
 The frequent patterns are visualized using Matplotlib line plots.
 
 1. **Top Wear:** Insert the screenshot of the Top Wear graph.
-2. **Party Wear:** Insert the screenshot of the Party Wear graph.
+2. <img width="1272" height="882" alt="Screenshot 2026-10-31 233500" src="https://github.com/user-attachments/assets/c4f3fc2d-b057-476d-bf0c-c234c5f60aa4" />
+
+3. **Party Wear:** Insert the screenshot of the Party Wear graph.
+   <img width="1252" height="832" alt="Screenshot 2026-10-31 233538" src="https://github.com/user-attachments/assets/90fbd650-cdc9-40b4-928b-f380199cf41d" />
+
 
 *Note: Bottom Wear has no frequent patterns, so no graph is displayed for this category.*
 
